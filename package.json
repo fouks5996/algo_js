@@ -1,0 +1,17 @@
+{
+	"name": "thp_algo",
+	"version": "1.0.0",
+	"description": "exercices to improve alogo",
+	"main": "script.js",
+	"scripts": {
+		"test": "test_cmd"
+	},
+	"keywords": [
+		"algo"
+	],
+	"author": "foucauld",
+	"license": "ISC",
+	"bin": {
+		"algo": "./bin/script.js"
+	}
+}
